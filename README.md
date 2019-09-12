@@ -2,6 +2,7 @@
 ## 初衷
 作为一个Github的新同学，凭借着目前高中的知识，对[GithubGuides](https://guides.github.com/)的理解仍存在一定的问题，为了解决问题，提高英语水平并造福广大像我一样的小白中国同学，我决定创建这样一个项目.
 ## 进度
+- [X] 目录
 - [ ] Hello World  你好世界  
 - [ ] Understanding the GitHub flow  理解Github的工作流程  
 - [ ] Getting Started with GitHub Pages  开始学习使用Github Pages  
